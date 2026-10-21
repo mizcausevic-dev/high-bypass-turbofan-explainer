@@ -11,72 +11,72 @@
       "glyph": "duct",
       "label": "Nacelle",
       "role": "path",
-      "x": 0.12,
-      "y": 0.32
+      "x": 0.14,
+      "y": 0.24
     },
     {
       "id": "n2",
       "glyph": "combustor",
       "label": "Core",
       "role": "path",
-      "x": 0.31,
-      "y": 0.32
+      "x": 0.5,
+      "y": 0.24
     },
     {
       "id": "n3",
       "glyph": "duct",
       "label": "Bypass",
       "role": "path",
-      "x": 0.5,
-      "y": 0.32
+      "x": 0.86,
+      "y": 0.24
     },
     {
       "id": "n4",
       "glyph": "duct",
       "label": "Core air",
       "role": "path",
-      "x": 0.69,
-      "y": 0.32
+      "x": 0.14,
+      "y": 0.48
     },
     {
       "id": "n5",
       "glyph": "compressor",
       "label": "Compressor rotors",
       "role": "path",
-      "x": 0.88,
-      "y": 0.32
+      "x": 0.5,
+      "y": 0.48
     },
     {
       "id": "n6",
       "glyph": "compressor",
       "label": "Stators",
       "role": "path",
-      "x": 0.2,
-      "y": 0.68
+      "x": 0.86,
+      "y": 0.48
     },
     {
       "id": "n7",
       "glyph": "combustor",
       "label": "Combustion",
       "role": "energy",
-      "x": 0.413,
-      "y": 0.68
+      "x": 0.14,
+      "y": 0.74
     },
     {
       "id": "n8",
       "glyph": "turbine",
       "label": "Turbines",
       "role": "path",
-      "x": 0.627,
-      "y": 0.68
+      "x": 0.5,
+      "y": 0.74
     },
     {
       "id": "n9",
       "glyph": "shaft",
       "label": "Connecting shafts",
       "role": "path",
-      "x": 0.84,
-      "y": 0.68
+      "x": 0.86,
+      "y": 0.74
     }
   ],
   "edges": [
