@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/high-bypass-turbofan-explainer/
 
+Repository: https://github.com/mizcausevic-dev/high-bypass-turbofan-explainer
+
 ## What this is
 
 An interactive anatomy plate for High-Bypass Turbofan. Play, scrub, or jump the five stages. The same frame always draws the same picture.
